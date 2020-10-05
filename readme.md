@@ -1,4 +1,5 @@
 # Host+
+[host+_logo]!logo_title_white_2-1.PNG
 ---
 
 ## Data Science Immersive Capstone Project
